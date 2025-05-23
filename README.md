@@ -1,2 +1,2 @@
 # ReactRepository
-Criação de um repositório de projetos do github utilizando React
+Criação de uma Wiki de repositórios dos meus projetos do github utilizando React
